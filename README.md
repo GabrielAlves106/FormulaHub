@@ -1,1 +1,1 @@
-t https://gabrielalves106.github.io/FormulaHub/
+ https://gabrielalves106.github.io/FormulaHub/
